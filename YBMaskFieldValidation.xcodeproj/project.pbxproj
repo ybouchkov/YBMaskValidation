@@ -13,7 +13,7 @@
 		37A22546276B3815006622B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37A22544276B3815006622B2 /* Main.storyboard */; };
 		37A22548276B3817006622B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37A22547276B3817006622B2 /* Assets.xcassets */; };
 		37A2254B276B3817006622B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37A22549276B3817006622B2 /* LaunchScreen.storyboard */; };
-		37A22553276B3863006622B2 /* TIMask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A22552276B3863006622B2 /* TIMask.swift */; };
+		37A22557276B4389006622B2 /* TIMask.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A22556276B4389006622B2 /* TIMask.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		37A22547276B3817006622B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37A2254A276B3817006622B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		37A2254C276B3817006622B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		37A22552276B3863006622B2 /* TIMask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TIMask.swift; path = ../../../../../Desktop/TIMask.swift; sourceTree = "<group>"; };
+		37A22556276B4389006622B2 /* TIMask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TIMask.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 				37A2253E276B3815006622B2 /* AppDelegate.swift */,
 				37A22540276B3815006622B2 /* SceneDelegate.swift */,
 				37A22542276B3815006622B2 /* ViewController.swift */,
-				37A22552276B3863006622B2 /* TIMask.swift */,
+				37A22556276B4389006622B2 /* TIMask.swift */,
 				37A22544276B3815006622B2 /* Main.storyboard */,
 				37A22547276B3817006622B2 /* Assets.xcassets */,
 				37A22549276B3817006622B2 /* LaunchScreen.storyboard */,
@@ -141,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37A22553276B3863006622B2 /* TIMask.swift in Sources */,
+				37A22557276B4389006622B2 /* TIMask.swift in Sources */,
 				37A22543276B3815006622B2 /* ViewController.swift in Sources */,
 				37A2253F276B3815006622B2 /* AppDelegate.swift in Sources */,
 				37A22541276B3815006622B2 /* SceneDelegate.swift in Sources */,
